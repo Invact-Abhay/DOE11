@@ -1,4 +1,4 @@
-index,Genre,Year,MoviesReleased,Gross,TicketsSold,Inflation-AdjustedGross,TopMovie,Top MovieGross,TopMovieInflationAdjustedGross
+index,Genre,Year,MoviesReleased,Gross,TicketsSold,Inflation-AdjustedGross,TopMovie,TopMovieGross,TopMovieInflationAdjustedGross
 0,Adventure,1995,29,77.15,17.74,159.09,Toy Story,15.015,30.962
 1,Adventure,1996,34,129.05,29.20,261.89,Independence Day,30.617,62.134
 2,Adventure,1997,23,88.19,19.21,172.35,Men in Black,25.065,48.983
