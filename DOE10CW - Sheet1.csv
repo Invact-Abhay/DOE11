@@ -1,0 +1,36 @@
+Order #,Year,Month,Product,Salesperson,City,Sales,Unit
+1,2024,April,TV unit,Amit Kumar,Pune,36409,451
+2,2024,May,Bed,Vipin Sharma,Mumbai,53961.5,317
+3,2024,June,Sofa,Praveen,Pune,27270,595
+4,2024,April,Cupboard,Amit Kumar,Kolkata,43299.5,320
+5,2024,May,TV unit,Vipin Sharma,Kolkata,67966,443
+6,2024,June,Bed,Praveen,Pune,46807,663
+7,2024,April,Sofa,Vipin Sharma,Chennai,22732,507
+8,2024,May,Cupboard,Vipin Sharma,Mumbai,55569,366
+9,2024,June,TV unit,Vipin Sharma,Pune,43745,306
+10,2024,April,Bed,Amit Kumar,Chennai,65311,634
+11,2024,May,Sofa,Amit Kumar,Chennai,62340,389
+12,2024,June,Cupboard,Praveen,Kolkata,57309,563
+13,2024,April,TV unit,Vipin Sharma,Chennai,46449.5,502
+14,2024,May,Bed,Vipin Sharma,Mumbai,17315,540
+15,2024,June,Sofa,Praveen,Pune,25947,577
+16,2024,April,Cupboard,Vipin Sharma,Chennai,18147,451
+17,2024,May,TV unit,Praveen,Kolkata,68396,661
+18,2024,June,Bed,Vipin Sharma,Mumbai,44702,423
+19,2024,April,Sofa,Amit Kumar,Pune,25085,440
+20,2024,May,Cupboard,Praveen,Chennai,11222,306
+21,2024,June,TV unit,Vipin Sharma,Mumbai,69936,422
+22,2024,April,Bed,Praveen,Chennai,55332.5,553
+23,2024,May,Sofa,Vipin Sharma,Pune,66446,453
+24,2024,June,Cupboard,Praveen,Kolkata,56260,671
+25,2024,April,TV unit,Praveen,Chennai,35349,325
+26,2024,May,Bed,Praveen,Kolkata,66327.5,605
+27,2024,June,Sofa,Praveen,Mumbai,43085.5,371
+28,2024,June,Cupboard,Amit Kumar,Chennai,36084,498
+29,2024,May,TV unit,Vipin Sharma,Pune,40728,666
+30,2024,June,Bed,Praveen,Mumbai,44702,577
+31,2024,April,Bed,Vipin Sharma,Mumbai,25085,451
+32,2024,June,Sofa,Praveen,Chennai,11222,661
+33,2024,June,Cupboard,Amit Kumar,Pune,44702,227
+34,2024,April,TV unit,Vipin Sharma,Mumbai,25085,642
+35,2024,May,Cupboard,Praveen,Kolkata,15612,354
