@@ -1,0 +1,3 @@
+OrderID,Course,Salesperson,OrderYear,OrderMonth,Region,State,CourseMode,CourseFee,GST,Discount,NetSales
+ED10620,UPSC,Abhay Ranjan,2016,June,North,Jammu and Kashmir,Offline,65000,6300,3115,40185
+ED10699,UPSC,Prakash Roy,2020,July,North,Jammu and Kashmir,Offline,15000,6300,5015,66000
